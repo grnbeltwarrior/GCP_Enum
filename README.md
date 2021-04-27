@@ -6,3 +6,6 @@ https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/gcp_enu
 https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/<br/>
 
 The majority of Chris's approach is aimed at getting a foothold on a resource within an organization's GCP. This is a good place to start if you end up on a system. Getting some lay of the land to discover if you are in a GCP resource. I wasn't on a resource. I was just an authenticated user with permissions but what can I "see".
+
+My Medium post about this script and some more details behind it:
+https://grnbeltwarrior.medium.com/enumerating-the-google-cloud-platform-gcp-a580da510a23
